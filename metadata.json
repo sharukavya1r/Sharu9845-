@@ -1,0 +1,8 @@
+{
+  "name": "QuickBasket - Lakkavalli",
+  "description": "QuickBasket Lakkavalli - Fresh groceries, vegetables, milk, dairy and daily essentials delivered in 10 minutes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
